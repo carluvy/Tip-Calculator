@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\7809448e228d19fe5e995c37913725d9\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\70f1ec3d1ad6707ce611b8d5fc84a389\material-1.3.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\53094d075809822fb0169e693ff0a863\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\fdaf8edef1492b949bc228644ae62170\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\7b22e30202e807c4d75269b584613f91\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\4188c6bb515332a8582c66db07b52270\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\776003c66ba20ec214cfa0544dce10fd\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\f19c38a333dd73bbc04057bc166ebde1\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\932d0ac3e07d74718f225362aabbab25\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\8f8b43853c20ea2ed7436982a9afab84\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\f0f2a3f097d75189c87b595bd236a3e4\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\fa3c40e11e8e7f0b8d4c4c2bdbf0bcb3\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\4655d295fc70c507764d3ca410c35c14\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\df8116a208cbb09ed8a4345e3f6529fe\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\4d691ec5e590fd3924ef38a8242a7f53\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\7551b32b8234e1b291523978a8b27708\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\2b010c54342975dfaeb566eb3518c98e\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\04c518bacb9df7a76070945fa9fc4f2c\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\1525eef86580584cb70237f7f2266e41\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\574898112d4494e6b9d3dac22f5da4b3\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\ba2ae3af7742888c359c1d800ddb5dfb\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\70956cfd771148de6c8e18ed70831288\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\d3813ab5c8f40eaa4a5184d30b07461c\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\2101aed2fd375c67f1a7e6ded39f3b21\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\c3f6e86456e746bb6a7dba8f3970f0f6\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\5fb75ea5d7c9b0c11d53ec3303582953\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\d112b3a02c3304772e84f9dd5b9ad307\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\7d87f11ebd28f2a50f04ace325f64263\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\5401bdad09e25a8f2f01f6b97db36e7d\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\79c9fff4be01cc0e1c11612ec5bf145b\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\0be2bfdbdd84278ff665199313c83f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\9d45c5f119e1fd1f9b9a33de1737d287\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\8f0fbf1b75edebb89d55b21bbe96433c\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\3991428bdf290483405418a45e5c47bb\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:5:3-19:17
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\70f1ec3d1ad6707ce611b8d5fc84a389\material-1.3.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\70f1ec3d1ad6707ce611b8d5fc84a389\material-1.3.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\53094d075809822fb0169e693ff0a863\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\53094d075809822fb0169e693ff0a863\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\574898112d4494e6b9d3dac22f5da4b3\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\574898112d4494e6b9d3dac22f5da4b3\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\d3813ab5c8f40eaa4a5184d30b07461c\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\d3813ab5c8f40eaa4a5184d30b07461c\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\574898112d4494e6b9d3dac22f5da4b3\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:6:7-33
+	android:theme
+		ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:11:7-38
+activity#org.hyperskill.calculator.tip.MainActivity
+ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:12:5-18:16
+	android:name
+		ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:12:15-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:13:7-17:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:16:9-69
+	android:name
+		ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:16:19-66
+uses-sdk
+INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\7809448e228d19fe5e995c37913725d9\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\7809448e228d19fe5e995c37913725d9\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\70f1ec3d1ad6707ce611b8d5fc84a389\material-1.3.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\70f1ec3d1ad6707ce611b8d5fc84a389\material-1.3.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\53094d075809822fb0169e693ff0a863\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\53094d075809822fb0169e693ff0a863\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\fdaf8edef1492b949bc228644ae62170\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\fdaf8edef1492b949bc228644ae62170\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\7b22e30202e807c4d75269b584613f91\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\7b22e30202e807c4d75269b584613f91\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\4188c6bb515332a8582c66db07b52270\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\4188c6bb515332a8582c66db07b52270\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\776003c66ba20ec214cfa0544dce10fd\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\776003c66ba20ec214cfa0544dce10fd\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\f19c38a333dd73bbc04057bc166ebde1\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\f19c38a333dd73bbc04057bc166ebde1\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\932d0ac3e07d74718f225362aabbab25\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\932d0ac3e07d74718f225362aabbab25\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\8f8b43853c20ea2ed7436982a9afab84\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\8f8b43853c20ea2ed7436982a9afab84\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\f0f2a3f097d75189c87b595bd236a3e4\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\f0f2a3f097d75189c87b595bd236a3e4\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\fa3c40e11e8e7f0b8d4c4c2bdbf0bcb3\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\fa3c40e11e8e7f0b8d4c4c2bdbf0bcb3\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\4655d295fc70c507764d3ca410c35c14\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\4655d295fc70c507764d3ca410c35c14\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\df8116a208cbb09ed8a4345e3f6529fe\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\df8116a208cbb09ed8a4345e3f6529fe\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\4d691ec5e590fd3924ef38a8242a7f53\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\4d691ec5e590fd3924ef38a8242a7f53\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\7551b32b8234e1b291523978a8b27708\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\7551b32b8234e1b291523978a8b27708\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\2b010c54342975dfaeb566eb3518c98e\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\2b010c54342975dfaeb566eb3518c98e\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\04c518bacb9df7a76070945fa9fc4f2c\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\04c518bacb9df7a76070945fa9fc4f2c\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\1525eef86580584cb70237f7f2266e41\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\1525eef86580584cb70237f7f2266e41\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\574898112d4494e6b9d3dac22f5da4b3\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\574898112d4494e6b9d3dac22f5da4b3\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\ba2ae3af7742888c359c1d800ddb5dfb\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\ba2ae3af7742888c359c1d800ddb5dfb\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\70956cfd771148de6c8e18ed70831288\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\70956cfd771148de6c8e18ed70831288\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\d3813ab5c8f40eaa4a5184d30b07461c\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\d3813ab5c8f40eaa4a5184d30b07461c\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\2101aed2fd375c67f1a7e6ded39f3b21\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\2101aed2fd375c67f1a7e6ded39f3b21\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\c3f6e86456e746bb6a7dba8f3970f0f6\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\c3f6e86456e746bb6a7dba8f3970f0f6\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\5fb75ea5d7c9b0c11d53ec3303582953\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\5fb75ea5d7c9b0c11d53ec3303582953\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\d112b3a02c3304772e84f9dd5b9ad307\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\d112b3a02c3304772e84f9dd5b9ad307\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\7d87f11ebd28f2a50f04ace325f64263\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\7d87f11ebd28f2a50f04ace325f64263\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\5401bdad09e25a8f2f01f6b97db36e7d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\5401bdad09e25a8f2f01f6b97db36e7d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\79c9fff4be01cc0e1c11612ec5bf145b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\79c9fff4be01cc0e1c11612ec5bf145b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\0be2bfdbdd84278ff665199313c83f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\0be2bfdbdd84278ff665199313c83f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\9d45c5f119e1fd1f9b9a33de1737d287\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\9d45c5f119e1fd1f9b9a33de1737d287\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\8f0fbf1b75edebb89d55b21bbe96433c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\8f0fbf1b75edebb89d55b21bbe96433c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\3991428bdf290483405418a45e5c47bb\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\pamoja.ANGELA\.gradle\caches\transforms-2\files-2.1\3991428bdf290483405418a45e5c47bb\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pamoja.ANGELA\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
